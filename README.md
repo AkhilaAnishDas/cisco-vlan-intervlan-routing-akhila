@@ -190,23 +190,23 @@ This lab provided practical experience with:
 
 ### 1. Network Topology
 
-![Network Topology](screenshots/topology.png)
+![Network Topology](topology.png)
 
 ### 2. VLAN Configuration
 
-![VLAN Configuration](screenshots/vlan-configuration.png)
+![VLAN Configuration](vlan-configuration.png)
 
 ### 3. Trunk Configuration
 
-![Trunk Configuration](screenshots/trunk-configuration.png)
+![Trunk Configuration](trunk-configuration.png)
 
 ### 4. IP Interface Configuration
 
-![IP Interface Configuration](screenshots/ip-interface.png)
+![IP Interface Configuration](ip-interface.png)
 
 ### 5. Connectivity Testing
 
-![Connectivity Test](screenshots/ping-test.png)
+![Connectivity Test](ping-test.png)
 
 --
 
